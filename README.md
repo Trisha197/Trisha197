@@ -1,6 +1,4 @@
-<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/c77f911a-085c-4545-afdc-bf1e794deccc" />
-
-<h3 align="center">B.Tech ECE (AI Specialization) | MERN Developer | AWS Cloud Learner| Aurdino and robotics learning</h3>
+<img width="3780" height="1890" alt="HI! i’m TRISHA" src="https://github.com/user-attachments/assets/8639032a-f0b3-4055-8f91-543a55bfcb94" />
 
 ---
 
