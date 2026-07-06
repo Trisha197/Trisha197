@@ -33,7 +33,7 @@ I'm a **2nd-year B.Tech student** passionate about building things - whether it'
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/trisha-5b34b1375/" target="_blank">
+  <a href="https://www.linkedin.com/in/trisha197/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="mailto:trisha.tt66@gmail.com" target="_blank">
